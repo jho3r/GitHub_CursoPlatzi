@@ -1,2 +1,4 @@
-# invie-github
-Curso de platzi by @jhoerp
+# invie
+Las guitarras más locas
+
+https://jhoer-p.github.io/invie-github/
